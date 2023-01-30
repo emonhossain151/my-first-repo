@@ -1,0 +1,9 @@
+h1{
+    color: magenta;
+}
+p{
+    background-color: blueviolet;
+    text-align: center;
+    color: rgba(7, 243, 62, 0.918);
+    padding: 20px;
+}
